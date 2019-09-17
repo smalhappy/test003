@@ -16,7 +16,7 @@ public class Test003Application {
     @GetMapping("/")
     public String index(){
 
-        return "一个测试demo003";
+        return "一个测试";
     }
 
 }
